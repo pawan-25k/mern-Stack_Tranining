@@ -10,8 +10,9 @@
 
 
 # Clone the repository or download the code
--git clone https://github.com/pawan-25k/mern-Stack_Tranining.git
--cd mern-Stack_Training
+
+- git clone https://github.com/pawan-25k/mern-Stack_Tranining.git
+- cd mern-Stack_Training
 
 # Install dependencies
 npm install mongoose
